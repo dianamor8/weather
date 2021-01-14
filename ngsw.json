@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1610654150610,
+  "timestamp": 1610654319877,
   "index": "https://dianamor8.github.io/weather/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://dianamor8.github.io/weather/favicon.ico",
         "https://dianamor8.github.io/weather/index.html",
-        "https://dianamor8.github.io/weather/main.a193e2e90b2e6fe08fae.js",
+        "https://dianamor8.github.io/weather/main.9cad5772cd699437c9de.js",
         "https://dianamor8.github.io/weather/manifest.webmanifest",
         "https://dianamor8.github.io/weather/polyfills.a4021de53358bb0fec14.js",
         "https://dianamor8.github.io/weather/runtime.e227d1a0e31cbccbf8ec.js",
@@ -72,8 +72,8 @@
     "https://dianamor8.github.io/weather/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://dianamor8.github.io/weather/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://dianamor8.github.io/weather/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://dianamor8.github.io/weather/index.html": "04c9f75eaff7780406005602d74c506c67fe2e99",
-    "https://dianamor8.github.io/weather/main.a193e2e90b2e6fe08fae.js": "8f826cd5c528f30fe685a08fb724b9c55a527af7",
+    "https://dianamor8.github.io/weather/index.html": "29763289270172d1c1172a211b77f621125c9435",
+    "https://dianamor8.github.io/weather/main.9cad5772cd699437c9de.js": "2ce9d4e636da65bec64c51cd2b4b0ef381204b70",
     "https://dianamor8.github.io/weather/manifest.webmanifest": "0fc23436314077d94fc167090be66321c4192379",
     "https://dianamor8.github.io/weather/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
     "https://dianamor8.github.io/weather/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
